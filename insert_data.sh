@@ -31,6 +31,3 @@ do
   fi
   done
 
-cat games.csv | while IFS="," read YEAR ROUND WINNER OPPONENT WINNER_GOALS OPPONENT_GOALS
-do
-done
